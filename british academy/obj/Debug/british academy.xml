@@ -1,0 +1,496 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+british academy
+</name>
+</assembly>
+<members>
+<member name="T:british_academy.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.accueil">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.accueil__1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.classe_energetique">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.controls">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.etudiant_diplome">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.exit_full_screen">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.hide">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.home_solid_24">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.lock_alt_regular_40">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.logo">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.logo_icon">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.maximize">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.minimize_sign">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.porte">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.presence">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.professeur">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.search">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.show">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.switch">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.switch__1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.switch_camera">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.the_end">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.user">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:british_academy.My.Resources.Resources.user_1946429">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.classDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.tabProfDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.absenceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.studentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.tabAdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet._AbsenceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.classRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.tabProfRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.absenceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.studentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.tabAdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet._AbsenceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.classRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.tabProfRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.absenceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.studentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet.tabAdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet._AbsenceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSetTableAdapters.classTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSetTableAdapters.tabProfTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSetTableAdapters.absenceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSetTableAdapters.studentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSetTableAdapters.tabAdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSetTableAdapters.AbsenceTableAdapter1">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:british_academy._british_academyDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(british_academy._british_academyDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:british_academy._british_academyDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(british_academy._british_academyDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:british_academy._british_academyDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(british_academy._british_academyDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:british_academy._british_academyDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:british_academy._british_academyDataSetTableAdapters.TableAdapterManager.UpdateAll(british_academy._british_academyDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.classDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.tabProfDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.AbsenceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.cityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.CountriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.studentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.tabAdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.classRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.tabProfRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.AbsenceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.cityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.CountriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.studentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.tabAdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.classRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.tabProfRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.AbsenceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.cityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.CountriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.studentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1.tabAdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1TableAdapters.classTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1TableAdapters.tabProfTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1TableAdapters.AbsenceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1TableAdapters.cityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1TableAdapters.CountriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1TableAdapters.studentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1TableAdapters.tabAdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:british_academy._british_academyDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(british_academy._british_academyDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:british_academy._british_academyDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(british_academy._british_academyDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:british_academy._british_academyDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(british_academy._british_academyDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:british_academy._british_academyDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:british_academy._british_academyDataSet1TableAdapters.TableAdapterManager.UpdateAll(british_academy._british_academyDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:british_academy._british_academyDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

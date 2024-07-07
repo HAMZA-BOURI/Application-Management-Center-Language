@@ -1,0 +1,75 @@
+D:\Application management\british academy\british academy\bin\Debug\Database1.mdf
+D:\Application management\british academy\british academy\bin\Debug\Database1_log.ldf
+D:\Application management\british academy\british academy\bin\Debug\british academy.exe.config
+D:\Application management\british academy\british academy\bin\Debug\british academy.exe.manifest
+D:\Application management\british academy\british academy\bin\Debug\british academy.application
+D:\Application management\british academy\british academy\bin\Debug\british academy.exe
+D:\Application management\british academy\british academy\bin\Debug\british academy.pdb
+D:\Application management\british academy\british academy\bin\Debug\british academy.xml
+D:\Application management\british academy\british academy\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Application management\british academy\british academy\obj\Debug\Application management.vbproj.AssemblyReference.cache
+D:\Application management\british academy\british academy\obj\Debug\british_academy.FormP.resources
+D:\Application management\british academy\british academy\obj\Debug\british_academy.FormR.resources
+D:\Application management\british academy\british academy\obj\Debug\british_academy.Resources.resources
+D:\Application management\british academy\british academy\obj\Debug\british_academy.Page_P.resources
+D:\Application management\british academy\british academy\obj\Debug\british_academy.Page_R.resources
+D:\Application management\british academy\british academy\obj\Debug\Application management.vbproj.GenerateResource.cache
+D:\Application management\british academy\british academy\obj\Debug\Application management.vbproj.CoreCompileInputs.cache
+D:\Application management\british academy\british academy\obj\Debug\british academy.exe.manifest
+D:\Application management\british academy\british academy\obj\Debug\british academy.application
+D:\Application management\british academy\british academy\obj\Debug\Application management.vbproj.CopyComplete
+D:\Application management\british academy\british academy\obj\Debug\british academy.exe
+D:\Application management\british academy\british academy\obj\Debug\british academy.xml
+D:\Application management\british academy\british academy\obj\Debug\british academy.pdb
+D:\Application management\british academy\british academy\bin\Debug\System.ValueTuple.dll
+D:\Application management\british academy\british academy\bin\Debug\System.ValueTuple.xml
+D:\raport\Application management\british academy\british academy\bin\Debug\Database1.mdf
+D:\raport\Application management\british academy\british academy\bin\Debug\Database1_log.ldf
+D:\raport\Application management\british academy\british academy\bin\Debug\british academy.exe.config
+D:\raport\Application management\british academy\british academy\bin\Debug\british academy.exe.manifest
+D:\raport\Application management\british academy\british academy\bin\Debug\british academy.application
+D:\raport\Application management\british academy\british academy\bin\Debug\british academy.exe
+D:\raport\Application management\british academy\british academy\bin\Debug\british academy.pdb
+D:\raport\Application management\british academy\british academy\bin\Debug\british academy.xml
+D:\raport\Application management\british academy\british academy\bin\Debug\Bunifu_UI_v1.52.dll
+D:\raport\Application management\british academy\british academy\bin\Debug\System.ValueTuple.dll
+D:\raport\Application management\british academy\british academy\bin\Debug\System.ValueTuple.xml
+D:\raport\Application management\british academy\british academy\obj\Debug\Application management.vbproj.AssemblyReference.cache
+D:\raport\Application management\british academy\british academy\obj\Debug\british_academy.FormP.resources
+D:\raport\Application management\british academy\british academy\obj\Debug\british_academy.FormR.resources
+D:\raport\Application management\british academy\british academy\obj\Debug\british_academy.Resources.resources
+D:\raport\Application management\british academy\british academy\obj\Debug\british_academy.Page_P.resources
+D:\raport\Application management\british academy\british academy\obj\Debug\british_academy.Page_R.resources
+D:\raport\Application management\british academy\british academy\obj\Debug\Application management.vbproj.GenerateResource.cache
+D:\raport\Application management\british academy\british academy\obj\Debug\Application management.vbproj.CoreCompileInputs.cache
+D:\raport\Application management\british academy\british academy\obj\Debug\british academy.exe.manifest
+D:\raport\Application management\british academy\british academy\obj\Debug\british academy.application
+D:\raport\Application management\british academy\british academy\obj\Debug\Application management.vbproj.CopyComplete
+D:\raport\Application management\british academy\british academy\obj\Debug\british academy.exe
+D:\raport\Application management\british academy\british academy\obj\Debug\british academy.xml
+D:\raport\Application management\british academy\british academy\obj\Debug\british academy.pdb
+D:\Projuct de stage\Application management\british academy\british academy\bin\Debug\Database1.mdf
+D:\Projuct de stage\Application management\british academy\british academy\bin\Debug\Database1_log.ldf
+D:\Projuct de stage\Application management\british academy\british academy\bin\Debug\british academy.exe.config
+D:\Projuct de stage\Application management\british academy\british academy\bin\Debug\british academy.exe.manifest
+D:\Projuct de stage\Application management\british academy\british academy\bin\Debug\british academy.application
+D:\Projuct de stage\Application management\british academy\british academy\bin\Debug\british academy.exe
+D:\Projuct de stage\Application management\british academy\british academy\bin\Debug\british academy.pdb
+D:\Projuct de stage\Application management\british academy\british academy\bin\Debug\british academy.xml
+D:\Projuct de stage\Application management\british academy\british academy\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Projuct de stage\Application management\british academy\british academy\bin\Debug\System.ValueTuple.dll
+D:\Projuct de stage\Application management\british academy\british academy\bin\Debug\System.ValueTuple.xml
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\Application management.vbproj.AssemblyReference.cache
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\british_academy.FormP.resources
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\british_academy.FormR.resources
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\british_academy.Resources.resources
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\british_academy.Page_P.resources
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\british_academy.Page_R.resources
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\Application management.vbproj.GenerateResource.cache
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\Application management.vbproj.CoreCompileInputs.cache
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\british academy.exe.manifest
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\british academy.application
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\Application management.vbproj.CopyComplete
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\british academy.exe
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\british academy.xml
+D:\Projuct de stage\Application management\british academy\british academy\obj\Debug\british academy.pdb

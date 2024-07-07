@@ -1,0 +1,50 @@
+CREATE TABLE tabAdmin (
+    idAdmin INT PRIMARY KEY IDENTITY(1,1),
+    username VARCHAR(50) UNIQUE NOT NULL,
+    passwordA VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE class (
+    idClass INT PRIMARY KEY IDENTITY(1,1),
+    nameClass VARCHAR(50) NOT NULL,
+    LanguageClass VARCHAR(50) NOT NULL,
+    timeClass TIME
+);
+
+CREATE TABLE student (
+    idStudent INT PRIMARY KEY IDENTITY(1,1),
+    name VARCHAR(50) NOT NULL,
+    prename VARCHAR(50) NOT NULL,
+    dateD DATE, /* The date is the start date of the study */
+    dateF DATE, /* The date is the date of completion of the study */
+    email VARCHAR(50),
+    numTele INT,
+    idClass INT UNIQUE,
+    FOREIGN KEY (idClass) REFERENCES class(idClass)
+);
+
+CREATE TABLE tabProf (
+    idProf INT PRIMARY KEY IDENTITY(1,1),
+    CNI VARCHAR(50) UNIQUE,
+    name VARCHAR(50) NOT NULL,
+    prename VARCHAR(50) NOT NULL,
+    dateD DATE NOT NULL, /* The date is the start date of work */
+    email VARCHAR(50),
+    address VARCHAR(100),
+    numTele INT NOT NULL,
+    username VARCHAR(50) UNIQUE NOT NULL,
+    passwordA VARCHAR(50) NOT NULL,
+    idClass INT UNIQUE,
+    FOREIGN KEY (idClass) REFERENCES class(idClass)
+);
+CREATE TABLE absence (
+    idAbsence INT PRIMARY KEY IDENTITY(1,1),
+	statusE NVARCHAR(50) CHECK (statusE IN ('Present', 'Absent')),
+    dateA DATE UNIQUE, /* History is the history of absence */
+    idProf INT,
+    idStudent INT,
+	idClass INT UNIQUE,
+    FOREIGN KEY (idClass) REFERENCES class(idClass),
+    FOREIGN KEY (idProf) REFERENCES tabProf(idProf),
+    FOREIGN KEY (idStudent) REFERENCES student(idStudent)
+);
