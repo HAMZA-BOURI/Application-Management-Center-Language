@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/hamzabouri/" target="_blank"><h1  align="center">Application Management</h1></a></p>
 
 ## Application management Desktop
-
+<H2>Manager Account</H2>
 <!-- Connection interface Page -->
 <h3>Connection interface (Manager Account):</h3>
 <p>This figure represents the first page that is displayed to the user responsible for verifying their information and redirecting them to the appropriate page based on their type of responsibility. It is the first page that appears after the program is executed and corresponds to the login window for the responsible user.</p>
@@ -10,7 +10,7 @@
 <!-- Welcome Interface page -->
 <h3>Welcome Interface (Home):</h3>
 <p>The goal of designing the "Home" page is to simplify absence management by displaying information about recent absences in a user-friendly manner, including the date, employee name, and status (present/absent). To this end, the interface includes two dropdown menus allowing users to filter absences by status (present, absent, all) and to choose a specific date or select "All dates." A "Search" button is available to initiate the search using the chosen criteria, and a search function is in place to filter the data accordingly, ensuring a user-friendly experience.</p>
-<p align="center"><img  src="./Image Application/Home.png" width="400" alt="Welcome Interface"></p>
+<p align="center"><img  src="./Image Application/Home.jpg" width="400" alt="Welcome Interface"></p>
 
 <!-- Contact Page -->
 <h3>Teacher Interface (Teachers):</h3>
@@ -31,10 +31,19 @@ The 'Student' interface has been developed to facilitate the management of stude
 </p></H5>
 <p align="center"><img src="./Image Application/STUDENTS.jpg.png" width="400" alt="Student Interface"></p>
 
-<!-- >Absence Interface -->
+<!-- Absence Interface -->
 <h3>Absence Interface (Absence):</h3>
-<H5><p>The "Absence" interface is designed to manage the display of absences and present students, offering functionalities such as adding new absences and presences. However, it does not allow for a single student to be displayed with both "absent" and "present" statuses simultaneously. This interface aims to simplify the management of attendance data for students in an educational or professional context. It provides an efficient solution for tracking student attendance and managing absence cases while ensuring data consistency by preventing the dual assignment of "absent" and "present" statuses to the same student.</p></H5>
-<p align="center"><img src="./Image Application/Absance.jpg" width="400" alt=">Absence Interface"></p>
+<H5><p>
+The "Absence" interface is designed to manage the display of absences and present students, offering functionalities such as adding new absences and presences. However, it does not allow for a single student to be displayed with both "absent" and "present" statuses simultaneously. This interface aims to simplify the management of attendance data for students in an educational or professional context. It provides an efficient solution for tracking student attendance and managing absence cases while ensuring data consistency by preventing the dual assignment of "absent" and "present" statuses to the same student.
+</p></H5>
+<p align="center"><img src="./Image Application/Absance.jpg" width="400" alt="Absence Interface"></p>
+
+<!-- End of Study Interface -->
+<h3>End of Study Interface (End Study):</h3>
+<H5><p>
+The 'End of Study' interface is designed to perform daily updates by comparing each student's end-of-study date with the current execution date. Its primary role is to identify students whose end-of-study date matches the current date, and then display them. This operation is carried out daily to ensure real-time tracking of students finishing within the deadlines. This interface is particularly useful in educational or project management environments, where it's crucial to ensure that students or participants complete their studies or projects according to predefined dates. It helps identify those who successfully meet deadlines and can be used to take additional measures if necessary, such as awarding degrees or managing rewards for those who finish on time.
+</p></H5>
+<p align="center"><img src="./Image Application/End Study.jpg" width="400" alt="End of Study Interface"></p>
 
 ## My Contacts
 
