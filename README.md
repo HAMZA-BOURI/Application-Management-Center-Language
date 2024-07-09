@@ -15,7 +15,7 @@
 <!-- Contact Page -->
 <h3>Teacher Interface (Teachers):</h3>
 <p>The "Teacher" interface is designed to manage teacher information. It offers essential functionalities such as adding a teacher with details like name, national identification number, phone number, email address, and specialty. Additionally, the interface provides an "Update" button to modify the teacher's status, making them active or inactive based on their presence. A "Delete" button allows for the removal of a teacher who leaves the institution, and the super administrator can access the teacher's password. This interface simplifies the management of teachers within the educational institution while ensuring secure access to sensitive information.</p>
-<p align="center"><img  src="./Image Application/Teachers.png" width="400" alt="Teacher Interface"></p>
+<p align="center"><img  src="./Image Application/Teachers.jpg" width="400" alt="Teacher Interface"></p>
 
 <!-- Class Interface Page -->
 <h3>Class Interface (Class):</h3>
@@ -29,7 +29,7 @@ The class interface is designed to display crucial information such as the name,
 <H5><p>
 The 'Student' interface has been developed to facilitate the management of student information. It offers essential functionalities such as adding a student with details like name, phone number, email address, and class assignment. Additionally, this interface provides an 'Update' button to modify the student's class assignment, making them active or inactive based on their enrollment status. A 'Delete' button allows for the removal of a student who leaves the institution. This interface simplifies student management within the educational institution while ensuring secure access to sensitive information.
 </p></H5>
-<p align="center"><img src="./Image Application/STUDENTS.jpg.png" width="400" alt="Student Interface"></p>
+<p align="center"><img src="./Image Application/STUDENTS.jpg" width="400" alt="Student Interface"></p>
 
 <!-- Absence Interface -->
 <h3>Absence Interface (Absence):</h3>
