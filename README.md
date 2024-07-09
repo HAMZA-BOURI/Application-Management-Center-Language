@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/hamzabouri/" target="_blank"><h1>Application Management</h1></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/hamzabouri/" target="_blank"><h1  align="center">Application Management</h1></a></p>
 
 ## Application management Desktop
 
